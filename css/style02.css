@@ -1,0 +1,36 @@
+/* Ici vos styles CSS*/
+body {font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(227, 241, 239) ;}
+
+header, footer { 
+    text-align:center; 
+    background-color:rgb(10, 195, 167);
+    color: white;}
+
+header h1 {
+    font-weight: normal;
+}
+header h1 span {font-size: 64px;}
+
+main > section {background-color: white;}
+
+h1, h2, h3, h4{text-align: center; }
+
+h1, h2, h3 {text-transform: uppercase;}
+
+h2 {color: rgb(15, 154, 133) ;}
+
+h3 {font-style: italic;}
+
+p {line-height: 1.8;}
+
+.FondJaune {
+    background-color:rgb(255, 255, 224); 
+    text-align: center;}
+
+dfn, strong {
+    background-color: yellow; 
+    font-weight: bold;
+    font-style: normal;}
+
+em {text-decoration:overline;}
