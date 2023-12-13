@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(211, 211, 211) ;
+}
+
+.container {
+    background-color:rgb(255, 255, 255); 
+    border: 1px solid rgb(127, 127, 127);
+    width: 760px;
+    margin: 20px auto;
+    padding: 20px
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    font-weight: bolder;
+    font-size: 3em;
+    padding: 15px;
+    margin: 15px auto 5px;
+    border-top: 2px solid rgb(139, 0, 0) ;
+    border-bottom: 2px solid rgb(139, 0, 0) ;
+}
+
+header h1 span {
+    background-color:rgb(0, 0, 0) ;
+    color:rgb(255, 255, 255);
+    padding: 10px;
+    font-size: medium;
+}
+
+main {
+    background-color: rgb(238, 238, 238);
+    margin: 20px 80px;
+    padding: 15px 50px 30px;
+}
+
+h1, h2 {text-align: center;
+        text-transform:initial;
+        font-weight: bolder;
+        font-size: 160%;
+    }
+
+.TexteRouge {color:rgb(139, 2, 2) ;}
+
+main img {
+    width: 20%;
+    display: block;
+    margin: 30px auto 25px;
+}
+
+.TextPrésentation {
+    border-bottom: 1px solid ;
+    rgb(127, 127, 127);
+    padding-bottom: 20px;
+}
+
+.TextItalique {
+    font-style: italic;
+    font-size: small;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+    padding: 20px 20px 50px ;
+}
